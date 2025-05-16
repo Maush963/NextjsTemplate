@@ -99,6 +99,7 @@ export default function Home() {
           Go to nextjs.org →
         </a>
       </footer>
+      <SpeedInsights />
     </div>
   );
 }
